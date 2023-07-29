@@ -1,0 +1,17 @@
+{
+	"textures": {
+		"particle": "block/brewing_stand",
+		"stand": "block/brewing_stand"
+	},
+	"elements": [
+		{
+			"from": [-0.41, 0, 8],
+			"to": [6.59, 16, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [7, 0, 0, 16], "texture": "#stand"},
+				"south": {"uv": [0, 0, 7, 16], "texture": "#stand"}
+			}
+		}
+	]
+}
