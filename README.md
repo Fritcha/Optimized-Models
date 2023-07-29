@@ -1,2 +1,2 @@
 # Optimized-Models
-Don't render stuff that you can't see anyway!
+Link back to modrinth: https://modrinth.com/resourcepack/optimized-models
